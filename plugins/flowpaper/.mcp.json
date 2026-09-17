@@ -9,6 +9,7 @@
         "publisher_replace_page_image",
         "publisher_open_pdf_preview",
         "publisher_add_page_element",
+        "publisher_update_page_element",
         "convert_pdf_to_zine",
         "publish_pdf_to_flowpaper"
       ],
@@ -27,6 +28,9 @@
           "approval_mode": "auto"
         },
         "publisher_add_page_element": {
+          "approval_mode": "auto"
+        },
+        "publisher_update_page_element": {
           "approval_mode": "auto"
         },
         "convert_pdf_to_zine": {

@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "flowpaper": {
+      "type": "http",
+      "url": "http://127.0.0.1:3002/mcp",
+      "enabled_tools": [
+        "publisher_get_status",
+        "publisher_get_page_image",
+        "publisher_replace_page_image",
+        "publisher_open_pdf_preview",
+        "convert_pdf_to_zine",
+        "publish_pdf_to_flowpaper"
+      ],
+      "default_tools_approval_mode": "approve",
+      "tools": {
+        "publisher_get_status": {
+          "approval_mode": "auto"
+        },
+        "publisher_get_page_image": {
+          "approval_mode": "auto"
+        },
+        "publisher_replace_page_image": {
+          "approval_mode": "auto"
+        },
+        "publisher_open_pdf_preview": {
+          "approval_mode": "auto"
+        },
+        "convert_pdf_to_zine": {
+          "approval_mode": "auto"
+        },
+        "publish_pdf_to_flowpaper": {
+          "approval_mode": "auto"
+        }
+      }
+    }
+  }
+}

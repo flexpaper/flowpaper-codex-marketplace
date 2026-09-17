@@ -1,6 +1,6 @@
 {
   "name": "flowpaper",
-  "version": "0.1.1+codex.20260918000002",
+  "version": "0.1.1+codex.20260918000004",
   "description": "Publish local PDFs to FlowPaper Cloud and control a locally running FlowPaper Desktop Publisher.",
   "author": {
     "name": "Devaldi"

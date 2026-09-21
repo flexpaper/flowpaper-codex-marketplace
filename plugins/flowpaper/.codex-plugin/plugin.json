@@ -1,15 +1,15 @@
 {
   "name": "flowpaper",
-  "version": "0.1.1+codex.20260918000005",
-  "description": "Publish local PDFs to FlowPaper Cloud and control a locally running FlowPaper Desktop Publisher.",
+  "version": "0.1.1+codex.20260922000001",
+  "description": "Preview and edit local PDFs with FlowPaper Desktop Publisher, or publish them to FlowPaper Cloud when requested.",
   "author": {
     "name": "Devaldi"
   },
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "FlowPaper",
-    "shortDescription": "Publish PDFs to FlowPaper Cloud.",
-    "longDescription": "Publish local PDFs to FlowPaper Cloud, create online FlowPaper publications, and control the FlowPaper Desktop Publisher running on this computer.",
+    "shortDescription": "Preview, edit, and publish PDFs with FlowPaper.",
+    "longDescription": "Preview and edit local PDFs with the FlowPaper Desktop Publisher running on this computer. Upload to FlowPaper Cloud only when requested.",
     "developerName": "Devaldi",
     "category": "Productivity",
     "composerIcon": "./assets/flowpaper-icon.png",
@@ -19,7 +19,7 @@
       "Edit"
     ],
     "defaultPrompt": [
-      "Publish a local PDF to FlowPaper Cloud."
+      "Open a local PDF in FlowPaper and show its preview."
     ]
   }
 }

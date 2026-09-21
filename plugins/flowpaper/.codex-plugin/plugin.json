@@ -1,6 +1,6 @@
 {
   "name": "flowpaper",
-  "version": "0.1.1+codex.20260922000001",
+  "version": "0.1.1+codex.20260922000002",
   "description": "Preview and edit local PDFs with FlowPaper Desktop Publisher, or publish them to FlowPaper Cloud when requested.",
   "author": {
     "name": "Devaldi"

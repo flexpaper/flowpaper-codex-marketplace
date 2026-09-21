@@ -5,6 +5,7 @@
       "url": "http://127.0.0.1:3002/mcp",
       "enabled_tools": [
         "publisher_get_status",
+        "publisher_refresh_chatgpt_plugin",
         "publisher_get_page_image",
         "publisher_replace_page_image",
         "publisher_open_pdf_preview",
@@ -19,6 +20,9 @@
       "tools": {
         "publisher_get_status": {
           "approval_mode": "auto"
+        },
+        "publisher_refresh_chatgpt_plugin": {
+          "approval_mode": "approve"
         },
         "publisher_get_page_image": {
           "approval_mode": "auto"

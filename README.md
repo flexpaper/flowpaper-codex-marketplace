@@ -1,6 +1,6 @@
 # FlowPaper Codex Plugin
 
-This marketplace provides the FlowPaper plugin, which connects a local Codex client to FlowPaper Desktop Publisher at `http://127.0.0.1:3002/mcp`.
+This marketplace provides the FlowPaper Flipbook Maker plugin, which connects a local Codex client to FlowPaper Desktop Publisher at `http://127.0.0.1:3002/mcp`.
 
 Start FlowPaper before using the plugin. The FlowPaper application starts the local MCP server automatically.
 
